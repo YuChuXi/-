@@ -1,0 +1,12 @@
+1-20 : set env_SEN
+21   : try_R_eS = 1
+22   : G_time = 31000
+23   : G_time = 21000
+24   : G_time = 11000
+25   : G_time = 1000
+26   : env_SEN --
+27   : env_SEN ++
+28   : << env_SEN
+29   : 
+30   : << ped_NUM
+100  : restart.
